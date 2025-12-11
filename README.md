@@ -3,11 +3,12 @@ Secure Journal App with JWT, OAuth2, MongoDB, Redis-cached weather API, sentimen
 
 Please visit the mastermain branch for viewing the project code.
 
-Built a secure and scalable Spring Boot Journal Management System supporting full CRUD operations for journal entries (title, content, sentiment).
-Implemented Spring Security with JWT Authentication, Basic Auth, and Google OAuth2 Login; stored OAuth2 user details as JWT tokens for seamless stateless API access.
-Used MongoDB to persist user profiles, journal data, and emotion sentiment records.
-Designed a Sentiment Analysis Module to track user emotions (HAPPY, SAD, ANGRY, ANXIOUS) and identify the most frequent pattern.
-Created a Weekly Scheduled Email Service using Spring Scheduling to automatically send users a weekend summary based on their dominant sentiment.
-Integrated WeatherStack API for real-time weather data and used Redis caching to reduce external API calls, improving performance and cost efficiency.
-Documented and tested all REST endpoints using Swagger UI and Postman, ensuring clean API visibility and ease of testing.
-Followed modular architecture with Controller–Service–Repository layers for maintainability and clean code structure.
+Developed a secure and scalable Spring Boot Journal Management System with full CRUD operations for journal entries (title, content, sentiment).
+Implemented Spring Security with JWT Authentication, Basic Auth, and Google OAuth2 Login; stored OAuth2 user details as JWT tokens for secure, stateless API communication.
+Utilized MongoDB to store user profiles, journal records, and sentiment data.
+Built a Sentiment Tracking Module that analyzes user moods (HAPPY, SAD, ANGRY, ANXIOUS) and identifies frequently recurring emotions.
+Implemented a Weekly Scheduled Email Service that sends users a weekend summary based on their dominant sentiment pattern.
+Integrated WeatherStack API for retrieving weather information and optimized performance using Redis caching, significantly reducing external API calls.
+Ensured clean API documentation and smooth testing using Swagger UI and Postman.
+Wrote comprehensive unit tests using JUnit & Mockito to test controllers, services, and repositories, improving code reliability.
+Integrated SonarQube for continuous code quality checks, ensuring adherence to clean code practices and reducing technical debt.
