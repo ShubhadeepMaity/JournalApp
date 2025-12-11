@@ -1,0 +1,197 @@
+
+1.0net.shubhadeep:journalAppJavaFrontend"1764928169785*java2.Bø
+E
+@src/main/java/net/Shubhadeep/journalApp/entity/JournalEntry.java2
+	
+type3
+	
+MAIN4
+
+
+module-key5
+
+
+journalApp6
+
+package8
+0
++journalApp:net.Shubhadeep.journalApp.entity9
+3
+-net.Shubhadeep.journalApp.entity.JournalEntry11
+
+class12
+
+access13
+
+public14
+
+simple-name15
+
+JournalEntry16
+<
+6org.springframework.data.mongodb.core.mapping.Document18
+
+unknown19
+
+annotated by20
+
+
+uses21
+
+lombok.NoArgsConstructor23
+
+lombok.Data25
+6
+0net.Shubhadeep.journalApp.entity.JournalEntry.id27
+
+field28
+
+private29
+
+id30
+
+org.bson.types.ObjectId32
+
+is type33
+,
+&org.springframework.data.annotation.Id35
+9
+3net.Shubhadeep.journalApp.entity.JournalEntry.title37
+
+title38
+;
+5net.Shubhadeep.journalApp.entity.JournalEntry.content40
+
+content41
+8
+2net.Shubhadeep.journalApp.entity.JournalEntry.date43
+
+
+date44J#
+!
+1
+12
+
+3
+4
+
+5
+6Z
+
+7
+7982
+
+
+5
+6j´
+B
+42<
+424328 *
+1 (	210:7B
+
+
+13
+29
+
+
+15
+44
+B
+39<
+394028 *
+1 (	210:7B
+
+
+13
+29
+
+
+15
+41
+
+24
+242519
+
+31
+313219
+
+34
+343519
+B
+36<
+363728 *
+1 (	210:7B
+
+
+13
+29
+
+
+15
+38
+>
+108
+101112 *
+1 (:7B
+
+
+13
+14
+
+
+15
+16
+B
+26<
+262728 *
+1 (210:7B
+
+
+13
+29
+
+
+15
+30
+
+17
+171819
+
+22
+222319r©
+
+101720*
+1 (
+
+101721*
+1 (
+
+
+102220*
+1 (
+
+102221*
+1 (
+
+102420*
+1 (
+
+102421*
+1 (
+
+263133*
+1
+ (
+
+263420*
+1 (
+
+263421*
+1 (
+
+263121*
+1
+ (
+
+263121*
+1 (

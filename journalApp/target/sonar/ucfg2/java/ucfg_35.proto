@@ -1,0 +1,43 @@
+
+¤net.Shubhadeep.journalApp.JournalApplication#fo(Lorg/springframework/data/mongodb/MongoDatabaseFactory;)Lorg/springframework/transaction/PlatformTransactionManager;|
+rD:/Users/shubh/Desktop/springbootprojct/journalApp/src/main/java/net/Shubhadeep/journalApp/JournalApplication.java# (%"startingBlock*õ
+startingBlock% (EÎ
+Ë
+ (
+%2"
+__annotate*K
+
+__unknown_file (/-
++org.springframework.context.annotation.Bean*`
+
+__unknown_file (D
+B
+	dbFactory5org.springframework.data.mongodb.MongoDatabaseFactoryƒ
+€
+; (DB
+	dbFactory5org.springframework.data.mongodb.MongoDatabaseFactory"__annotation*"
+
+__unknown_file (
+
+%2*
+1*¶
+1% (.‡„
+ ($>
+%08org.springframework.data.mongodb.MongoTransactionManager"8org.springframework.data.mongodb.MongoTransactionManagerÎ
+Ë
+	 (/
+%1"yorg.springframework.data.mongodb.MongoTransactionManager#<init>(Lorg/springframework/data/mongodb/MongoDatabaseFactory;)V*\
+
+__unknown_file (@
+>
+%08org.springframework.data.mongodb.MongoTransactionManager*`
+
+__unknown_file (D
+B
+	dbFactory5org.springframework.data.mongodb.MongoDatabaseFactory"L
+ (0@
+>
+%08org.springframework.data.mongodb.MongoTransactionManager:N
+& (DB
+	dbFactory5org.springframework.data.mongodb.MongoDatabaseFactoryB0.
+,net.Shubhadeep.journalApp.JournalApplicationH
