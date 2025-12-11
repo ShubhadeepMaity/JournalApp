@@ -1,5 +1,5 @@
 # JournalApp
-Secure Journal App with JWT/OAuth2 auth, MongoDB, Redis-cached weather API, sentiment-based weekly emails, and Swagger-documented CRUD services.
+Secure Journal App with JWT, OAuth2, MongoDB, Redis-cached weather API, sentiment-based weekly emails, and Swagger-documented CRUD services.
 
 Please visit the mastermain branch for viewing the project code.
 
